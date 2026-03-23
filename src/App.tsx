@@ -721,7 +721,7 @@ Vos collaborateurs méritent l'excellence. Votre entreprise exige la sécurité.
                   <TrendingUp size={200} />
                 </div>
                 <h3 className="text-2xl font-bold mb-6 flex items-center gap-3 relative z-10">
-                  <Lightbulb className="text-yellow-400" /> L'œil du stratège : Objectifs ROI
+                  <Lightbulb className="text-yellow-400" /> Objectifs ROI
                 </h3>
                 <p className="text-gray-300 mb-8 relative z-10 leading-relaxed">
                   En B2B, nous ne visons pas le volume de clics, mais la qualité des prospects. Voici les KPIs de performance que nous piloterons chaque semaine pour évaluer la rentabilité de cette campagne de 10 000 € :
