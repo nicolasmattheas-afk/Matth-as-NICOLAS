@@ -476,7 +476,7 @@ Vos collaborateurs méritent l'excellence. Votre entreprise exige la sécurité.
                     </div>
                     <button 
                       onClick={() => setIsArticleOpen(true)}
-                      className="text-samsung-blue font-bold hover:underline flex items-center gap-1"
+                      className="bg-samsung-blue text-white font-bold px-6 py-2 rounded-full hover:bg-blue-700 transition-all flex items-center gap-2"
                     >
                       Lire l'article <ArrowRight size={16} />
                     </button>
