@@ -101,6 +101,7 @@ export default function App() {
               <a href="#planning" className="text-sm font-medium hover:text-samsung-blue transition-colors">Planning</a>
               <a href="#linkedin" className="text-sm font-medium hover:text-samsung-blue transition-colors">LinkedIn</a>
               <a href="#insights" className="text-sm font-medium hover:text-samsung-blue transition-colors">Insights</a>
+              <a href="#budget" className="text-sm font-medium hover:text-samsung-blue transition-colors">Budget</a>
               <button className="bg-samsung-blue text-white px-6 py-2.5 rounded-full text-sm font-bold hover:bg-blue-700 transition-all">
                 Samsung Pro Shop
               </button>
@@ -123,6 +124,7 @@ export default function App() {
             <a href="#planning" className="block text-lg font-medium">Planning</a>
             <a href="#linkedin" className="block text-lg font-medium">LinkedIn</a>
             <a href="#insights" className="block text-lg font-medium">Insights</a>
+            <a href="#budget" className="block text-lg font-medium">Budget</a>
             <button className="w-full bg-samsung-blue text-white px-6 py-3 rounded-full text-sm font-bold">
               Samsung Pro Shop
             </button>
