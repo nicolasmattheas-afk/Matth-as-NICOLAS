@@ -452,7 +452,7 @@ Vos collaborateurs méritent l'excellence. Votre entreprise exige la sécurité.
               >
                 <div className="aspect-video relative">
                   <img 
-                    src="https://picsum.photos/seed/ai-mobility/800/450" 
+                    src="https://i.imgur.com/Af8A8Pu.png"
                     alt="AI Mobility" 
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
