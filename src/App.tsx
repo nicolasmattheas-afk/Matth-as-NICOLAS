@@ -12,6 +12,7 @@ import {
   Lock, 
   Zap, 
   Globe,
+  Linkedin,
   CheckCircle2,
   Menu,
   X,
@@ -809,12 +810,22 @@ Vos collaborateurs méritent l'excellence. Votre entreprise exige la sécurité.
             <div className="hidden lg:block">
               <h5 className="font-bold mb-6 text-sm uppercase tracking-widest">Réseaux</h5>
               <div className="flex gap-4">
-                <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center border border-gray-200 cursor-pointer hover:bg-samsung-blue hover:text-white transition-all">
+                <a 
+                  href="https://mattheas-portfolio.vercel.app/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="w-10 h-10 bg-white rounded-full flex items-center justify-center border border-gray-200 cursor-pointer hover:bg-samsung-blue hover:text-white transition-all"
+                >
                   <Globe size={18} />
-                </div>
-                <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center border border-gray-200 cursor-pointer hover:bg-samsung-blue hover:text-white transition-all">
-                  <Smartphone size={18} />
-                </div>
+                </a>
+                <a 
+                  href="https://www.linkedin.com/in/mattheas-nicolas/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="w-10 h-10 bg-white rounded-full flex items-center justify-center border border-gray-200 cursor-pointer hover:bg-samsung-blue hover:text-white transition-all"
+                >
+                  <Linkedin size={18} />
+                </a>
               </div>
             </div>
           </div>
